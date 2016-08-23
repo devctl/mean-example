@@ -24,3 +24,6 @@ dist
 *~
 *.sublime-project
 *.sublime-workspace
+
+.devctl
+.DS_Store
