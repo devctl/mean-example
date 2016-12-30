@@ -1,5 +1,6 @@
 node:
   version: 6
+  packageManager: yarn
 
 services:
   - mongo
